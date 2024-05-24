@@ -1,2 +1,2 @@
 # rez-quickstart
-A simple and easy replacement for rez-bind --quickstart
+A simple and easy replacement for `rez-bind --quickstart`
