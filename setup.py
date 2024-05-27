@@ -24,7 +24,7 @@ setuptools.setup(
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "rez-quickstart = rez-quickstart.cli:cli"
+            "rez-quickstart = rez_quickstart.cli:cli"
         ]
     },
     classifiers=[
