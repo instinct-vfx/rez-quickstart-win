@@ -17,7 +17,6 @@ except:
     from rez.vendor.version.version import Version
 
 
-logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 
 def create_python_package(packages_path, python_version=None):
